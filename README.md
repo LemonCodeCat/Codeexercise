@@ -1,2 +1,2 @@
 # Codeexercise
-代码联系
+代码练习
